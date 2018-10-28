@@ -1,12 +1,12 @@
 ---
 title: Top 2017 Metal Records
-date: '2017-12-10'
+date: 2017-12-10 00:00:00 +0000
 published: true
 featured: true
-image: /uploads/-1.jpg
-intro: >-
-  This has been a pretty good year for fresh-off-the-anvil heavy metal records,
+image: "/uploads/-1.jpg"
+intro: This has been a pretty good year for fresh-off-the-anvil heavy metal records,
   so, let's get started!
+
 ---
 ## SATAN'S HALLOW - S/T
 
